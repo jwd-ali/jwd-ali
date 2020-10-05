@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there, I'm Jawad Ali 👋
+</a>
 
-<!--
-**jwd-ali/jwd-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Software Developer who loves to convert thoughts into code.
+
+
+* 📱  Let's talk about your next App. Contact me [here](https://www.linkedin.com/in/jawad-ali-3804ab24/)
+
+* 💬 Ask me about anything [here](https://github.com/jwd-ali/jwd-ali/issues)
+
+* ✨ UI / UX Enthusiast
+
+* 📖 Open-Source Contributor
+
+* 💻 One line of code at a time
+
+* ♥️ Exploring new places
+
+* 💁🏻I share my Insights, Tricks, and Tips on iOS development on my LinkedIn.
+
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+**Stats :**  
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+[![Jawad's github stats](https://github-readme-stats.vercel.app/api?username=jwd-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jwd-ali/jwd-ali)
+
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jwd-ali&repo=ounotes&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<br />
+<br />
+<br />
+<br /><br />
+<br /><br />
+
+## Reach me via 👇🏻
+
+[![Linkedin](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/linkedin.png)](https://www.linkedin.com/in/jawad-ali-3804ab24/)
