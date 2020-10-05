@@ -29,7 +29,10 @@ A Software Developer who loves to convert thoughts into code.
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 [![Jawad's github stats](https://github-readme-stats.vercel.app/api?username=jwd-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jwd-ali/jwd-ali)
 
-
+<a href="https://github.com/jwd-ali/Switch-Animations">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jwd-ali&repo=Switch-Animations&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a><br />
  
 <br />
 <br />
