@@ -42,4 +42,4 @@ A Software Developer who loves to convert thoughts into code.
 
 ## Reach me via 👇🏻
 
-[![Linkedin](https://raw.githubusercontent.com/Shubham0812/Test-Angular/master/docs/linkedin.png)](https://www.linkedin.com/in/jawad-ali-3804ab24/)
+[![Linkedin](https://i.imgur.com/vGjsQPt.png)](https://www.linkedin.com/in/jawad-ali-3804ab24/)
