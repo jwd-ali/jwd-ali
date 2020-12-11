@@ -42,4 +42,4 @@ A Software Developer who loves to convert thoughts into code.
 
 ## Reach me via 👇🏻
 
-[![Linkedin](https://i.imgur.com/vGjsQPt.png width="134" height="34")](https://www.linkedin.com/in/jawad-ali-3804ab24/)
+[![Linkedin](https://i.imgur.com/vGjsQPt.png)](https://www.linkedin.com/in/jawad-ali-3804ab24/)
