@@ -26,7 +26,7 @@ A Software Developer who loves to convert thoughts into code.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 **Stats :**  
-[![Jawad github ranking](https://github-readme-ranking.vercel.app/api/rank?username=jwd-ali&country_code=pakistan)](https://github.com/Muhammadsher/github-readme-ranking)
+[![Jawad github ranking](https://github-readme-ranking.vercel.app/api/rank?username=jwd-ali&country_code=Afghanistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 [![Jawad's github stats](https://github-readme-stats.vercel.app/api?username=jwd-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/jwd-ali/jwd-ali)
