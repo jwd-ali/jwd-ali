@@ -21,10 +21,7 @@ A Software Developer who loves to convert thoughts into code.
 
 * 💁🏻I share my Insights, Tricks, and Tips on iOS development on my LinkedIn.
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+
 **Stats :**  
 [![Jawad github ranking](https://github-readme-ranking.vercel.app/api/rank?username=jwd-ali&country_code=pakistan&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 
